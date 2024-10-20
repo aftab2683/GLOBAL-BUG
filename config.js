@@ -1,26 +1,26 @@
 /*
-      Subscribe My YouTube Channel: @GlobalTechInfo
+      Subscribe My YouTube Channel: @aftab_0_khan
 
-Follow The Channel For More :https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+Follow The Channel For More :https://youtube.com/@aftab_0_khan?si=SJ39gPHb1rCWpqCy
 
 Contact Me: https://t.me/GlobalTechInc
 
-GitHub: https://github.com/GlobalTechInfo
+GitHub: https://github.com/aftab2683
 
-Credit Qasim Ali
+Credit Aftab khan
  
 
 */
 
 global.prefa = ['','!','.',',','🐤','🗿'] 
 // Setting Contact
-global.namaown = "© GlobalTechInfo"
-global.namabot = "𝗚𝗹𝗼𝗯𝗮𝗹-𝗕𝘂𝗴"
+global.namaown = "© Aftabkhan"
+global.namabot = "Aftabofficial"
 global.versisc = "9.0.0"
-global.owner = ["923xxx Qasim Ali"]
-global.tele = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
-global.url = "https://www.youtube.com/@GlobalTechInfo"
-global.namastore = "Zʏɴxᴢᴏ"
+global.owner = ["923015326254 Aftab khan"]
+global.tele = "https://chat.whatsapp.com/Lk5xkMyj70P1ZSgPtd1Fjr"
+global.url = "https://youtube.com/@aftab_0_khan?si=SJ39gPHb1rCWpqCy"
+global.namastore = "aftabkhan"
 
 // Global Simbol
 global.simbol = "ᯤ"
